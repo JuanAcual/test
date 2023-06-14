@@ -1,0 +1,16 @@
+{
+    "name": "carlos/restfull",
+    "description": "restfull api",
+    "authors": [
+        {
+            "name": "Juan Acual",
+            "email": "juancacual@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "Classes/"
+        }
+    },
+    "require": {}
+}
